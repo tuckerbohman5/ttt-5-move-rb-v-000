@@ -11,4 +11,3 @@ index = input_to_index(gets.strip)
 # index = input_to_index(space)
 # move(board,index)
 # display_board(board)
-
