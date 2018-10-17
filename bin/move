@@ -8,3 +8,4 @@ puts "Welcome to Tic Tac Toe!"
 puts "Pick a move 1-9!"
 space = gets.strip
 index = input_to_index(space)
+move(board,index)
